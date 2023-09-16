@@ -75,3 +75,23 @@ li a {
     align-content: center;
     color: white;
  }
+ input {
+    font-size: 50px;
+    font-style: oblique;
+    font-family: serif;
+    align-content: center;
+    color: white;
+    background-color: transparent;
+
+ }
+ button{
+    background-color: #5f1104d8;
+    font-size: 40px;
+    font-style: oblique;
+    font-family: serif;
+    align-content: center;
+    margin-left: 0ch;
+    padding: 30px;
+    color: white;
+    border-style: double;
+ }
