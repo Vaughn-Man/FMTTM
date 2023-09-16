@@ -1,0 +1,77 @@
+body {
+    background-image: url(FMTTM.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1 {
+    font-size: 80px;
+    font-style: oblique;
+    font-family: serif;
+    color: azure;
+}
+
+li {
+    float: left;
+    text-align: justify;
+    display: inline;
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #850909a4;
+}
+li a {
+    display: block;
+    color: rgb(233, 196, 196);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #4e2014;
+  }
+ .navlist {
+    font-family: serif;
+    font-style: oblique;
+    font-size: medium;
+ }
+ .text3
+ {
+    text-align: right;
+ }
+ .text2{
+    display: flex;
+    align-items: flex-end;
+    height: 350px;
+    flex-direction: column;
+    justify-content: flex-end;
+ }
+ h2 {
+    color: rgb(189, 15, 15);
+    font-size: medium;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 0vmax;
+ }
+ 
+ table, th, td{
+    border-collapse: collapse;
+    border: 1px solid white;
+    background-color: transparent;
+    padding: 40px;
+ }
+ 
+
+ .tabletext {
+    font-size: 50px;
+    font-style: oblique;
+    font-family: serif;
+    align-content: center;
+    color: white;
+ }
