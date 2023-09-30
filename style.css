@@ -64,7 +64,8 @@ li a {
     border-collapse: collapse;
     border: 1px solid white;
     background-color: transparent;
-    padding: 40px;
+    padding: 20px;
+    color: white;
  }
  
 
